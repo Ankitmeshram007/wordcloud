@@ -1,2 +1,2 @@
 # wordcloud
-you should have all import module installed on your pc
+use jupyter notebook for the code
